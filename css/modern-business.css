@@ -1,0 +1,69 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  color: #ffffff;
+  background: #000 repeat-y;
+}
+
+@media (min-width: 576px) {
+  body {
+    padding-top: 20px;
+    background-image: url(/images/backLeft.jpg), url(/images/backRight.jpg);
+    background-position: left, right
+  }
+
+  .rack {
+    margin: 0 20px 0 20px;
+  }
+
+}
+
+nav, .rack {
+  background-image: linear-gradient(to top, #888 70%, #777) ;
+  border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+  border-bottom: 1px solid #444444;
+  border-right: 1px solid #444444;
+}
+
+.cookies {
+  color: #000;
+  background-image: linear-gradient(to top, #e9e8e8 70%, #dfdfdf) ;
+  border-top: 1px solid #fdfdfd;
+  border-left: 1px solid #fdfdfd;
+  border-bottom: 1px solid #6d6d6d;
+  border-right: 1px solid #6d6d6d;
+
+}
+
+.eurotrip {
+  background-image: linear-gradient(to top, #cc1c00 70%, #b11800) ;
+  border-top: 1px solid #ff583e;
+  border-left: 1px solid #ff583e;
+  border-bottom: 1px solid #6b0e00;
+  border-right: 1px solid #6b0e00;
+}
+
+.youtube {
+  display: block;
+  margin: 0 auto;
+  width: 560px;
+  height: 315px;
+  border-top: 1px solid #6b0e00;
+  border-left: 1px solid #6b0e00;
+  border-bottom: 1px solid #ff583e;
+  border-right: 1px solid #ff583e;
+
+}
+
+@media (max-width: 770px) {
+  .youtube {
+    width: 100%;
+    height: 215px;
+  }
+}
+

@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /
+
+# no www
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ http://%1%{REQUEST_FILENAME} [R=301,L]
+
+RewriteRule ^$ index.php?page=index [NC,L]
+RewriteRule ^terms index.php?page=terms [NC,L]
+RewriteRule ^eurotrip-europa-refill-for-propellerhead-reason$ index.php?page=eurotrip [NC,L]
