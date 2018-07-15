@@ -23,17 +23,20 @@
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-md-7">
-        <a href="eurotrip-europa-refill-for-propellerhead-reason">
+        <a href="eurotrip-europa-patches-for-propellerhead-reason-and-vst">
           <img class="img-fluid rounded mb-3 mb-md-0" src="images/eurotrip_banner.jpg" alt="Eurotrip Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
-        <h3>Eurotrip Refill</h3>
+        <h3>Eurotrip</h3>
         <p>
-          Join us on a trip around the european underground club scene.<br>
+          Get on a trip around the european underground club scene.<br>
           200 patches for the Europa Synthesizer.
         </p>
-        <a class="btn btn-primary" href="eurotrip-europa-refill-for-propellerhead-reason">
+        <p>
+          Rack Extension & VST version compatible
+        </p>
+        <a class="btn btn-primary" href="eurotrip-europa-patches-for-propellerhead-reason-and-vst">
           more information
         </a>
       </div>

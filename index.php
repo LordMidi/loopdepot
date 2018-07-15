@@ -15,12 +15,12 @@ switch ($_REQUEST["page"]) {
     $template = "eurotrip";
     break;
   case "terms":
-    $title = "Loop Depot Terms & Imprint";
+    $title = "Terms & Imprint";
     $template = "terms";
     $noIndex = true;
     break;
   default:
-    $title = "Eurotrip - Refill for Propellerhead Reason Europa Synthesizer";
+    $title = "Loop Depot - Propellerhead Reason Refills & stuff";
     $description = "Presets, patches & sounds for Propellerhead Reason.";
     $template = "index";
 }  
