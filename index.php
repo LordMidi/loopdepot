@@ -9,6 +9,11 @@ $description = "";
 $template = "";
 $noIndex = false;
 switch ($_REQUEST["page"]) {
+  case "europaclub":
+    $title = "Europaclub - Refill for Propellerhead Reason Europa Synthesizer";
+    $description = "180 rhytmic presets pushing the Europa Synthesizer its limit. Download the free demo now!";
+    $template = "europaclub";
+    break;
   case "eurotrip":
     $title = "Eurotrip - Refill for Propellerhead Reason Europa Synthesizer";
     $description = "200 new presets for the Europa Synthesizer which is part of Propellerhead's Reason. Download the free demo now!";

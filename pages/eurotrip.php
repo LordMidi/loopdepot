@@ -3,9 +3,9 @@
     Eurotrip
     <small> - 200 patches for the Europa Synthesizer</small>
   </h1>
+  <h3>Are you ready for a trip?</h3>
   <div class="row">
     <div class="col-lg-6">
-      <h3>Are you ready for a trip?</h3>
       <p>
         Join Loop Depot on a journey into the underground scene all across Europe.
         We have collected <strong>200 preset patches</strong> for the
@@ -38,7 +38,7 @@
       <a class="btn btn-primary" href="downloads/EurotripDemo.zip">
         download demo
       </a>
-      <a class="btn btn-success" href="https://loopdepot.onfastspring.com/eurotrip" target="_blank">
+      <a class="btn btn-success" href="https://loopdepot.onfastspring.com/" target="_blank">
         buy
       </a>
     </div>

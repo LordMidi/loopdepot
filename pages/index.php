@@ -2,7 +2,6 @@
   <div class="row">
     <div class="col-lg-7">
       <h2>Welcome to the depot!</h2>
-      <p>Thanks for visiting! We just opened - hope you enjoy.</p>
       <p>
         Being in love with music making for decades, we now want to share our passion
         with other <strong>producers, beat makers and DJs</strong> around the world.
@@ -16,6 +15,30 @@
         We try to give you the <strong>banging sounds</strong> we enjoy and would use for our own productions.
         Feel free to <strong>download the demos</strong> to get an impression of the packs before spending any money.
       </p>
+    </div>
+  </div>
+</div>
+<div class="rack europaclub mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="europaclub-europa-patches-for-propellerhead-reason-and-vst">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/europaclub_banner.jpg" alt="Eurotrip Refill Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Europa Club</h3>
+        <p>
+          Loop Depot proudly presents... another tour through europe's electronic club scene.
+          180 rhythmic presets that catch the vibe of the hottest dancefloors across europe.
+       </p>
+        <p>
+          Rack Extension & VST version compatible
+        </p>
+        <a class="btn btn-primary" href="europaclub-europa-patches-for-propellerhead-reason-and-vst">
+          more information
+        </a>
+      </div>
     </div>
   </div>
 </div>

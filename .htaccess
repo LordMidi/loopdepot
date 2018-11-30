@@ -9,6 +9,11 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^ http://%1%{REQUEST_FILENAME} [R=301,L]
 
+# redirects
+Redirect 301 /eurotrip-europa-refill-for-propellerhead-reason /eurotrip-europa-patches-for-propellerhead-reason-and-vst
+
+# nice urls
 RewriteRule ^$ index.php?page=index [NC,L]
 RewriteRule ^terms index.php?page=terms [NC,L]
 RewriteRule ^eurotrip-europa-patches-for-propellerhead-reason-and-vst$ index.php?page=eurotrip [NC,L]
+RewriteRule ^europaclub-europa-patches-for-propellerhead-reason-and-vst$ index.php?page=europaclub [NC,L]
