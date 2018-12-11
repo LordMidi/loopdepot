@@ -8,16 +8,19 @@ $title = "";
 $description = "";
 $template = "";
 $noIndex = false;
+$ogImage = "";
 switch ($_REQUEST["page"]) {
   case "europaclub":
     $title = "Europaclub - Refill for Propellerhead Reason Europa Synthesizer";
     $description = "180 rhytmic presets pushing the Europa Synthesizer its limit. Download the free demo now!";
     $template = "europaclub";
+    $ogImage = "images/europaclub_og.jpg";
     break;
   case "eurotrip":
     $title = "Eurotrip - Refill for Propellerhead Reason Europa Synthesizer";
     $description = "200 new presets for the Europa Synthesizer which is part of Propellerhead's Reason. Download the free demo now!";
     $template = "eurotrip";
+    $ogImage = "images/eurotrip_og.jpg";
     break;
   case "terms":
     $title = "Terms & Imprint";
@@ -32,7 +35,7 @@ switch ($_REQUEST["page"]) {
 $content = file_get_contents("pages/" . $template . ".php");
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#>
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117488999-1"></script>
@@ -50,6 +53,11 @@ $content = file_get_contents("pages/" . $template . ".php");
     <?php endif; ?>
     <?php if ($noIndex): ?>
       <meta name="robots" content="noindex">
+    <?php endif; ?>
+    <?php if ($ogImage): ?>
+      <meta property="og:image" content="<?php echo ($_SERVER['HTTPS'] === "on" ? "https://" : "http://") . $_SERVER['HTTP_HOST'] . "/" . $ogImage; ?>">
+      <meta property="og:image:width" content="500">
+      <meta property="og:image:height" content="500">
     <?php endif; ?>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">

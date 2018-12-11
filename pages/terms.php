@@ -31,7 +31,7 @@
           Brahmsallee 17<br>
           14612 Falkensee<br>
           Germany<br><br>
-          tax number: 051/252/01158
+          tax number: DE318652597
         </p>
       </div>
       <div class="col-lg-3">
