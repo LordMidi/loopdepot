@@ -27,7 +27,7 @@
       </div>
       <div class="col-lg-4">
         <p>
-          Rosina Nacheva<br>
+          Rosina Mincheva Gampe<br>
           Brahmsallee 17<br>
           14612 Falkensee<br>
           Germany<br><br>

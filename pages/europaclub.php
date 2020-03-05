@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <h1 class="mt-4">
     Europa Club
-    <small> - 180 loop patches for the Europa Synthesizer</small>
+    <small> - 180 loop patches for the <a href="https://www.propellerheads.com/europa">Europa Synthesizer</a></small>
   </h1>
   <h3>One click - one hit</h3>
   <div class="row">
@@ -11,7 +11,7 @@
         180 rhythmic presets that try to catch the vibe of the hottest dancefloors across europe.
       </p>
       <p>
-        <strong>The Europe synthesizer patch pack</strong> for all who want to get the groove on within a second.
+        <strong>The Europa synthesizer patch pack</strong> for all who want to get the groove on within a second.
         <strong>High-quality patches</strong> crafted to support your track with movement and energy.
       </p>
       <p>
@@ -35,12 +35,12 @@
         <li>demo song</li>
       </ul>
       <p>
-        The downloads include the single patch files AND the Refill versions.
+        The download includes the single patch files AND the Refill version.
       </p>
       <a class="btn btn-primary" href="downloads/EuropaClubDemo.zip">
         download demo
       </a>
-      <a class="btn btn-success" href="https://loopdepot.onfastspring.com/" target="_blank">
+      <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/europa-club/" target="_blank">
         buy
       </a>
     </div>

@@ -11,9 +11,13 @@ RewriteRule ^ http://%1%{REQUEST_FILENAME} [R=301,L]
 
 # redirects
 Redirect 301 /eurotrip-europa-refill-for-propellerhead-reason /eurotrip-europa-patches-for-propellerhead-reason-and-vst
+Redirect 301 /eurotrip-europa-patches-for-propellerhead-reason-and-vst /eurotrip-europa-patches-for-reason-and-vst
+Redirect 301 /europaclub-europa-patches-for-propellerhead-reason-and-vst /europaclub-europa-patches-for-reason-and-vst
 
 # nice urls
 RewriteRule ^$ index.php?page=index [NC,L]
 RewriteRule ^terms index.php?page=terms [NC,L]
-RewriteRule ^eurotrip-europa-patches-for-propellerhead-reason-and-vst$ index.php?page=eurotrip [NC,L]
-RewriteRule ^europaclub-europa-patches-for-propellerhead-reason-and-vst$ index.php?page=europaclub [NC,L]
+RewriteRule ^eurotrip-europa-patches-for-reason-and-vst$ index.php?page=eurotrip [NC,L]
+RewriteRule ^europaclub-europa-patches-for-reason-and-vst$ index.php?page=europaclub [NC,L]
+RewriteRule ^complexworld-complex-1-patches-for-reason$ index.php?page=complexworld [NC,L]
+RewriteRule ^complexcinema-complex-1-patches-for-reason$ index.php?page=complexcinema [NC,L]

@@ -10,14 +10,26 @@ $template = "";
 $noIndex = false;
 $ogImage = "";
 switch ($_REQUEST["page"]) {
+  case "complexcinema":
+    $title = "Complex Cinema - Patches for the Propellerhead Reason Complex-1 Synthesizer";
+    $description = "...";
+    $template = "complexcinema";
+    $ogImage = "images/complexcinema_og.jpg";
+    break;
+  case "complexworld":
+    $title = "Complex World - Patches for the Propellerhead Reason Complex-1 Synthesizer";
+    $description = "200 innovative patches for your Complex-1 Modular Synthesizer. Get ready to explore a new world of sounds - it's a complex world!";
+    $template = "complexworld";
+    $ogImage = "images/complexworld_og.jpg";
+    break;
   case "europaclub":
-    $title = "Europaclub - Refill for Propellerhead Reason Europa Synthesizer";
+    $title = "Europaclub - Patches for the Propellerhead Reason Europa Synthesizer";
     $description = "180 rhytmic presets pushing the Europa Synthesizer its limit. Download the free demo now!";
     $template = "europaclub";
     $ogImage = "images/europaclub_og.jpg";
     break;
   case "eurotrip":
-    $title = "Eurotrip - Refill for Propellerhead Reason Europa Synthesizer";
+    $title = "Eurotrip - Refill for the Propellerhead Reason Europa Synthesizer";
     $description = "200 new presets for the Europa Synthesizer which is part of Propellerhead's Reason. Download the free demo now!";
     $template = "eurotrip";
     $ogImage = "images/eurotrip_og.jpg";
@@ -28,7 +40,7 @@ switch ($_REQUEST["page"]) {
     $noIndex = true;
     break;
   default:
-    $title = "Loop Depot - Propellerhead Reason Refills & stuff";
+    $title = "Loop Depot - Reason Refills & stuff";
     $description = "Presets, patches & sounds for Propellerhead Reason.";
     $template = "index";
 }  

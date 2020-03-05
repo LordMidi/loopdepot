@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <h1 class="mt-4">
     Eurotrip
-    <small> - 200 patches for the Europa Synthesizer</small>
+    <small> - 200 patches for the <a href="https://www.propellerheads.com/europa">Europa Synthesizer</a></small>
   </h1>
   <h3>Are you ready for a trip?</h3>
   <div class="row">
@@ -33,12 +33,12 @@
         <li>demo song</li>
       </ul>
       <p>
-        The downloads include the single patch files AND the Refill versions.
+        The download includes the single patch files AND the Refill version.
       </p>
       <a class="btn btn-primary" href="downloads/EurotripDemo.zip">
         download demo
       </a>
-      <a class="btn btn-success" href="https://loopdepot.onfastspring.com/" target="_blank">
+      <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/eurotrip/" target="_blank">
         buy
       </a>
     </div>
