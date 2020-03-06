@@ -36,11 +36,9 @@
         The download includes the single patch files AND the Refill version.
       </p>
       <p>
-      <!--
-        <a class="btn btn-primary" href="downloads/ComplexWorldDemo.zip">
+        <a class="btn btn-primary" href="downloads/ComplexCinemaDemo.zip">
           download demo
         </a>
-      -->
         <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/complex-cinema/" target="_blank">
           buy
         </a>
