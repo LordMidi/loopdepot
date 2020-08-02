@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <h1 class="mt-4">
     Complex World
-    <small> - 200 patches for the <a href="https://www.reasonstudios.com/en/reason/instruments/complex-1">Complex-1 Modular Synthesizer</a></small>
+    <small> - 200 patches for the Complex-1 Modular Synthesizer</small>
   </h1>
   <h3>It's a complex world!</h3>
   <div class="row">
@@ -23,14 +23,14 @@
       </p>
       <p>
         Content:
-        <ul>
-          <li>39 Bass patches</li>
-          <li>49 Effect patches</li>
-          <li>50 Loop patches</li>
-          <li>62 Melody patches</li>
-          <li>demo song</li>
-        </ul>
       </p>
+      <ul>
+        <li>39 Bass patches</li>
+        <li>49 Effect patches</li>
+        <li>50 Loop patches</li>
+        <li>62 Melody patches</li>
+        <li>demo song</li>
+      </ul>
       <p>
         All of the patches support the modulation wheel feature to give you instant access to variations of the sound.
       </p>
@@ -55,7 +55,7 @@
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-lg-12 col-centered text-center">
-        <iframe class="youtube rounded" src="https://www.youtube.com/embed/5Uy760iR3aQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe class="youtube rounded" src="https://www.youtube.com/embed/5Uy760iR3aQ?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <span class="small">
           *only sounds from the pack were used (except drums & promo vocal)
         </span>

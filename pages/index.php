@@ -18,6 +18,26 @@
     </div>
   </div>
 </div>
+<div class="rack kongking mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="kongking-kong-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kongking_banner.jpg" alt="Kong King Refill Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Kong King</h3>
+        <p>
+          50 drum kit patches for the Kong drum designer and 7 effect combinators. Let the rhythm hit 'em!
+        </p>
+        <a href="kongking-kong-patches-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack complexworld mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
@@ -29,10 +49,9 @@
       <div class="col-md-5">
         <h3>Complex Cinema</h3>
         <p>
-          200 innovative patches for your Complex-1 Modular Synthesizer. Get ready to explore a new
-          world of sounds - it's a complex world!
+          200 cinematic patches for the Complex-1 Modular Synthesizer. Complex soundtracks made simple!
        </p>
-        <a class="btn btn-primary" href="complexcinema-complex-1-patches-for-reason" class="index-link">
+        <a href="complexcinema-complex-1-patches-for-reason" class="btn btn-primary index-link">
           more information
         </a>
       </div>
@@ -53,7 +72,7 @@
           200 innovative patches for your Complex-1 Modular Synthesizer. Get ready to explore a new
           world of sounds - it's a complex world!
        </p>
-        <a class="btn btn-primary" href="complexworld-complex-1-patches-for-reason" class="index-link">
+        <a href="complexworld-complex-1-patches-for-reason" class="btn btn-primary index-link">
           more information
         </a>
       </div>
@@ -88,7 +107,7 @@
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-md-7">
-        <a href="eurotrip-europa-patches-for-reason-and-vst">
+        <a href="eurotrip-europa-patches-for-reason-and-vst" class="index-link">
           <img class="img-fluid rounded mb-3 mb-md-0" src="images/eurotrip_banner.jpg" alt="Eurotrip Refill Banner">
         </a>
       </div>

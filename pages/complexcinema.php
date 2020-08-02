@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <h1 class="mt-4">
     Complex Cinema
-    <small> - 200 cinematic patches for the <a href="https://www.reasonstudios.com/en/reason/instruments/complex-1">Complex-1 Modular Synthesizer</a></small>
+    <small> - 200 cinematic patches for the Complex-1 Modular Synthesizer</small>
   </h1>
   <h3>Complex soundtracks made simple!</h3>
   <div class="row">
@@ -20,15 +20,15 @@
       </p>
       <p>
         Content:
-        <ul>
-          <li>71 Atmosphere patches</li>
-          <li>40 Effect patches</li>
-          <li>24 Lead patches</li>
-          <li>43 Loop patches</li>
-          <li>22 Pluck patches</li>
-          <li>demo song</li>
-        </ul>
       </p>
+      <ul>
+        <li>71 Atmosphere patches</li>
+        <li>40 Effect patches</li>
+        <li>24 Lead patches</li>
+        <li>43 Loop patches</li>
+        <li>22 Pluck patches</li>
+        <li>demo song</li>
+      </ul>
       <p>
         All of the patches support the modulation wheel feature to give you instant access to variations of the sound.
       </p>
@@ -53,7 +53,7 @@
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-lg-12 col-centered text-center">
-        <iframe class="youtube rounded" src="https://www.youtube.com/embed/6wY2QOaLJ2w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe class="youtube rounded" src="https://www.youtube.com/embed/6wY2QOaLJ2w?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <span class="small">
           *only sounds from the pack were used
         </span>

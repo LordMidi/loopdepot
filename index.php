@@ -10,27 +10,33 @@ $template = "";
 $noIndex = false;
 $ogImage = "";
 switch ($_REQUEST["page"]) {
+  case "kongking":
+    $title = "Kong King - Patches for Reason Kong Drum Designer";
+    $description = "50 drum kit patches for the Kong drum designer and 7 effect combinators. Let the rhythm hit 'em!";
+    $template = "kongking";
+    $ogImage = "images/kongking_og.jpg";
+    break;
   case "complexcinema":
-    $title = "Complex Cinema - Patches for the Propellerhead Reason Complex-1 Synthesizer";
-    $description = "...";
+    $title = "Complex Cinema - Patches for the Reason Complex-1 Synthesizer";
+    $description = "200 cinematic patches for the Complex-1 Modular Synthesizer. Complex soundtracks made simple!";
     $template = "complexcinema";
     $ogImage = "images/complexcinema_og.jpg";
     break;
   case "complexworld":
-    $title = "Complex World - Patches for the Propellerhead Reason Complex-1 Synthesizer";
+    $title = "Complex World - Patches for the Reason Complex-1 Synthesizer";
     $description = "200 innovative patches for your Complex-1 Modular Synthesizer. Get ready to explore a new world of sounds - it's a complex world!";
     $template = "complexworld";
     $ogImage = "images/complexworld_og.jpg";
     break;
   case "europaclub":
-    $title = "Europaclub - Patches for the Propellerhead Reason Europa Synthesizer";
+    $title = "Europaclub - Patches for the Reason Europa Synthesizer";
     $description = "180 rhytmic presets pushing the Europa Synthesizer its limit. Download the free demo now!";
     $template = "europaclub";
     $ogImage = "images/europaclub_og.jpg";
     break;
   case "eurotrip":
-    $title = "Eurotrip - Refill for the Propellerhead Reason Europa Synthesizer";
-    $description = "200 new presets for the Europa Synthesizer which is part of Propellerhead's Reason. Download the free demo now!";
+    $title = "Eurotrip - Refill for the Reason Europa Synthesizer";
+    $description = "200 new presets for the Europa Synthesizer. Download the free demo now!";
     $template = "eurotrip";
     $ogImage = "images/eurotrip_og.jpg";
     break;
@@ -41,21 +47,21 @@ switch ($_REQUEST["page"]) {
     break;
   default:
     $title = "Loop Depot - Reason Refills & stuff";
-    $description = "Presets, patches & sounds for Propellerhead Reason.";
+    $description = "Presets, patches & sounds for Reason.";
     $template = "index";
 }  
 $content = file_get_contents("pages/" . $template . ".php");
 ?>
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117488999-2"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117488999-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'UA-117488999-2');
+      gtag('config', 'UA-117488999-1');
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

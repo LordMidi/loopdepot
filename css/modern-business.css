@@ -81,7 +81,7 @@ nav, .rack {
   border-right: 1px solid #ff583e;
 }
 
-.complexworld {
+.complexworld, .complexcinema {
   color: #4C4C4C;
   background: linear-gradient(to top, #cccccc 70%, #aaaaaa);
   border-top: 1px solid #eeeeee;
@@ -90,7 +90,7 @@ nav, .rack {
   border-right: 1px solid #888888;
 }
 @media (min-width: 650px) {
-  .complexworld {
+  .complexworld, .complexcinema {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #cccccc 70%, #aaaaaa);
   }
 }
@@ -100,6 +100,27 @@ nav, .rack {
   border-left: 1px solid #888888;
   border-bottom: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
+}
+
+.kongking {
+  color: #4C4C4C;
+  background: linear-gradient(to top, #c1c5a9 70%, #afb494);
+  border-top: 1px solid #e3e0cd;
+  border-left: 1px solid #e3e0cd;
+  border-bottom: 1px solid #808372;
+  border-right: 1px solid #808372;
+}
+@media (min-width: 650px) {
+  .kongking {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #c1c5a9 70%, #afb494);
+  }
+}
+
+.kongking .youtube {
+  border-top: 1px solid #808372;
+  border-left: 1px solid #808372;
+  border-bottom: 1px solid #e3e0cd;
+  border-right: 1px solid #e3e0cd;
 }
 
 .youtube {

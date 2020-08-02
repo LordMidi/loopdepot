@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <h1 class="mt-4">
     Europa Club
-    <small> - 180 loop patches for the <a href="https://www.propellerheads.com/europa">Europa Synthesizer</a></small>
+    <small> - 180 loop patches for the Europa Synthesizer</small>
   </h1>
   <h3>One click - one hit</h3>
   <div class="row">
@@ -14,8 +14,8 @@
         <strong>The Europa synthesizer patch pack</strong> for all who want to get the groove on within a second.
         <strong>High-quality patches</strong> crafted to support your track with movement and energy.
       </p>
+      <h4>How to use:</h4>
       <p>
-        <h4>How to use:</h4>
         <strong>The patches are made to be used as loops.</strong>
         Just create a note with one or two bars length and let the music play.
         That's it!
@@ -26,7 +26,7 @@
         Absolutely recommended!
       </p>
       <p>
-        <strong>Propellerhead Reason 10</strong> (or later) or <strong>VST version</strong> of Europa required<br>
+        <strong>Reason 10</strong> (or later) or <strong>VST version</strong> of Europa required<br>
         <br>
         Content:
       </p>
@@ -53,7 +53,7 @@
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-lg-12 col-centered text-center">
-        <iframe class="youtube rounded" src="https://www.youtube.com/embed/0sxa1qpHJ0I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe class="youtube rounded" src="https://www.youtube.com/embed/0sxa1qpHJ0I?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <span class="small">
           *only sounds from the pack were used (except drums)<br>
         </span>
