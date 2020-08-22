@@ -25,8 +25,8 @@
         Last but not least - the patches include <strong>custom backdrops</strong> to give you the unique Kong King feeling.
       </p>
       <p>
-        <strong>Reason 10</strong> (or later) and installation of the default Reason Refills <strong>Drum Supply</strong>
-        and <strong>Loop Supply</strong> required<br>
+        <strong>Reason 10</strong> (or later) and installation of the default Reason Refills <strong>Orkester Sound Bank</strong>,
+        <strong>Reason Drum Supply</strong> and <strong>Reason Loop Supply</strong> required<br>
         <br>
         Content:
       </p>
