@@ -10,6 +10,12 @@ $template = "";
 $noIndex = false;
 $ogImage = "";
 switch ($_REQUEST["page"]) {
+  case "oldschool808patterns":
+    $title = "Oldschool 808 patterns - the most popular drum patterns for Reason";
+    $description = "150 oldschool drum sequences for Reason. Start your oldschool jam now!";
+    $template = "oldschool808patterns";
+    $ogImage = "images/oldschool808patterns_og.jpg";
+    break;
   case "kongking":
     $title = "Kong King - Patches for Reason Kong Drum Designer";
     $description = "50 drum kit patches for the Kong drum designer and 7 effect combinators. Let the rhythm hit 'em!";

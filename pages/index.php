@@ -18,6 +18,26 @@
     </div>
   </div>
 </div>
+<div class="rack oldschool808patterns mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="oldschool808patterns-drum-patterns-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/oldschool808patterns_banner.jpg" alt="Oldschool 808 Patterns Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Oldschool 808 Patterns</h3>
+        <p>
+          coming soon...
+        </p>
+        <a href="oldschool808patterns-drum-patterns-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack kongking mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">

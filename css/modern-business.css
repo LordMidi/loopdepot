@@ -102,7 +102,7 @@ nav, .rack {
   border-right: 1px solid #eeeeee;
 }
 
-.kongking {
+.kongking, .oldschool808patterns {
   color: #4C4C4C;
   background: linear-gradient(to top, #c1c5a9 70%, #afb494);
   border-top: 1px solid #e3e0cd;
@@ -111,12 +111,12 @@ nav, .rack {
   border-right: 1px solid #808372;
 }
 @media (min-width: 650px) {
-  .kongking {
+  .kongking, .oldschool808patterns {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #c1c5a9 70%, #afb494);
   }
 }
 
-.kongking .youtube {
+.kongking .youtube, .oldschool808patterns .youtube {
   border-top: 1px solid #808372;
   border-left: 1px solid #808372;
   border-bottom: 1px solid #e3e0cd;
@@ -126,13 +126,8 @@ nav, .rack {
 .youtube {
   display: block;
   margin: 0 auto;
-  width: 560px;
-  height: 315px;
+  width: 800px;
+  height: 450px;
+  max-width: 85vw;
 }
 
-@media (max-width: 770px) {
-  .youtube {
-    width: 100%;
-    height: 215px;
-  }
-}
