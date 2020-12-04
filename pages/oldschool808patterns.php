@@ -45,6 +45,9 @@
         </ul>
       </ul>
       <p>
+        <a class="btn btn-primary" href="downloads/Oldschool808PatternsDemo.zip">
+          download demo
+        </a>
         <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/oldschool-808-patterns/" target="_blank">
           buy
         </a>

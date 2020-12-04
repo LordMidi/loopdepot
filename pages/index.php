@@ -29,7 +29,7 @@
       <div class="col-md-5">
         <h3>Oldschool 808 Patterns</h3>
         <p>
-          coming soon...
+          150 most iconic 808 drum patterns of all times - for Reason. No samples! Drum notes for your track to get the oldschool jam started.
         </p>
         <a href="oldschool808patterns-drum-patterns-for-reason" class="btn btn-primary index-link">
           more information
@@ -113,9 +113,6 @@
           Loop Depot proudly presents... another tour through europe's electronic club scene.
           180 rhythmic presets that catch the vibe of the hottest dancefloors across europe.
        </p>
-        <p>
-          Rack Extension & VST version compatible
-        </p>
         <a class="btn btn-primary" href="europaclub-europa-patches-for-reason-and-vst">
           more information
         </a>
@@ -136,9 +133,6 @@
         <p>
           Get on a trip around the european underground club scene.<br>
           200 patches for the Europa Synthesizer.
-        </p>
-        <p>
-          Rack Extension & VST version compatible
         </p>
         <a class="btn btn-primary" href="eurotrip-europa-patches-for-reason-and-vst">
           more information
