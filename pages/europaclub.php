@@ -1,11 +1,16 @@
 <div class="container mb-4">
-  <h1 class="mt-4">
-    Europa Club
-    <small> - 180 loop patches for the Europa Synthesizer</small>
-  </h1>
-  <h3>One click - one hit</h3>
+  <div class="row mb-5">
+    <div class="col-lg-12 text-center">
+      <img class="img-fluid rounded" src="images/europaclub.jpg" alt="Europaclub Patch Pack">
+    </div>
+  </div>  
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-12">
+      <h1 class="mb-5">
+        Europa Club
+        <small> - 180 loop patches for the Europa Synthesizer</small>
+      </h1>
+      <h3>One click - one hit</h3>
       <p>
         Loop Depot proudly presents... another tour through europe's electronic club scene.
         180 rhythmic presets that try to catch the vibe of the hottest dancefloors across europe.
@@ -37,15 +42,14 @@
       <p>
         The download includes the single patch files AND the Refill version.
       </p>
-      <a class="btn btn-primary" href="downloads/EuropaClubDemo.zip">
-        download demo
-      </a>
-      <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/europa-club/" target="_blank">
-        buy
-      </a>
-    </div>
-    <div class="col-lg-6">
-      <img class="img-fluid rounded" src="images/europaclub.jpg" alt="Europaclub Patch Pack">
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/EuropaClubDemo.zip">
+          download demo
+        </a>
+        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/europa-club/" target="_blank">
+          buy
+        </a>
+      </p>
     </div>
   </div>
 </div>

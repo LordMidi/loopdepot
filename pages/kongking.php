@@ -1,11 +1,16 @@
 <div class="container mb-4">
-  <h1 class="mt-4">
-    Kong King
-    <small> - 50 patches for the Kong Drum Designer</small>
-  </h1>
-  <h3>Let the rhythm hit 'em!</h3>
+  <div class="row mb-5">
+    <div class="col-lg-12 text-center">
+      <img class="img-fluid rounded" src="images/kongking.jpg" alt="Kong King Refill">
+    </div>
+  </div>
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-12">
+      <h1 class="mb-5">
+        Kong King
+        <small> - 50 patches for the Kong Drum Designer</small>
+      </h1>
+      <h3>Let the rhythm hit 'em!</h3>
       <p>
         50 drum kit patches for the Kong drum designer and 7 effect combinators will bring your drum creativity to the next level.
       </p>
@@ -40,15 +45,14 @@
       <p>
         To <strong>change the drum patch of the combinator devices</strong> click "show devices" and open your favorite drum patch in Kong.
       </p>
-      <a class="btn btn-primary" href="downloads/KongKingDemo.zip">
-        download demo
-      </a>
-      <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/kong-king/" target="_blank">
-        buy
-      </a>
-    </div>
-    <div class="col-lg-6">
-      <img class="img-fluid rounded" src="images/kongking.jpg" alt="Kong King Refill">
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/KongKingDemo.zip">
+          download demo
+        </a>
+        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/kong-king/" target="_blank">
+          buy
+        </a>
+      </p>
     </div>
   </div>
 </div>

@@ -4,20 +4,30 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
+html {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
 body {
   color: #ffffff;
   background: #000 repeat-y;
+  margin: 0 auto;
+}
+
+.no-bullet {
+  list-style: none;
 }
 
 button:hover, a:hover {
   transform: rotate(2deg) !important;
 }
 
-.row > .col-lg-6 {
-  padding-bottom: 1em;
+h1 small {
+  color: #999;
 }
 
-.index-link {
+.index-link, .freebie-link{
   display: block;
 }
 
@@ -45,6 +55,20 @@ nav, .rack {
   nav, .rack {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #888 70%, #777);
   }
+}
+
+
+.rack-device {
+  margin: 0 18px;
+  max-width: calc(100% - 36px);
+}
+
+.youtube {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  height: 450px;
+  max-width: 100%;
 }
 
 .cookies {
@@ -123,11 +147,44 @@ nav, .rack {
   border-right: 1px solid #e3e0cd;
 }
 
-.youtube {
-  display: block;
-  margin: 0 auto;
-  width: 800px;
-  height: 450px;
-  max-width: 85vw;
+.synthpower {
+  color: #ffffff;
+  background: linear-gradient(to top, #99518f 40%, #6d3265);
+  border-top: 1px solid #bf91b8;
+  border-left: 1px solid #bf91b8;
+  border-bottom: 1px solid #381633;
+  border-right: 1px solid #381633;
+}
+@media (min-width: 650px) {
+  .synthpower {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #99518f 40%, #6d3265);
+  }
 }
 
+.synthpower .youtube {
+  border-bottom: 1px solid #381633;
+  border-right: 1px solid #381633;
+  border-top: 1px solid #bf91b8;
+  border-left: 1px solid #bf91b8;
+}
+
+.rhythmicfxpack {
+  color: #ffffff;
+  background: linear-gradient(to top, #444 40%, #333);
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-bottom: 1px solid #111;
+  border-right: 1px solid #111;
+}
+@media (min-width: 650px) {
+  .rhythmicfxpack {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #444 40%, #333);
+  }
+}
+
+.rhythmicfxpack .youtube {
+  border-bottom: 1px solid #111;
+  border-right: 1px solid #111;
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+}

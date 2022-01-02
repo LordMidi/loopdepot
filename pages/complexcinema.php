@@ -1,11 +1,16 @@
 <div class="container mb-4">
-  <h1 class="mt-4">
-    Complex Cinema
-    <small> - 200 cinematic patches for the Complex-1 Modular Synthesizer</small>
-  </h1>
-  <h3>Complex soundtracks made simple!</h3>
+  <div class="row mb-5">
+    <div class="col-lg-12 text-center">
+      <img class="img-fluid rounded" src="images/complexcinema.jpg" alt="Complex Cinema Patch Pack">
+    </div>
+  </div>
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-12">
+      <h1 class="mb-5">
+        Complex Cinema
+        <small> - 200 cinematic patches for the Complex-1 Modular Synthesizer</small>
+      </h1>
+      <h3>Complex soundtracks made simple!</h3>
       <p>
         Abstract cinematic sounds from another dimension - this is <strong>Complex Cinema</strong>.
         200 high quality patches for <strong>The Complex-1 synthesizer</strong>
@@ -35,7 +40,7 @@
       <p>
         The download includes the single patch files AND the Refill version.
       </p>
-      <p>
+      <p class="mt-5">
         <a class="btn btn-primary" href="downloads/ComplexCinemaDemo.zip">
           download demo
         </a>
@@ -43,9 +48,6 @@
           buy
         </a>
       </p>
-    </div>
-    <div class="col-lg-6">
-      <img class="img-fluid rounded" src="images/complexcinema.jpg" alt="Complex Cinema Patch Pack">
     </div>
   </div>
 </div>

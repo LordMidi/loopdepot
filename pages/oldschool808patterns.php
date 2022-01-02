@@ -1,11 +1,16 @@
 <div class="container mb-4">
-  <h1 class="mt-4">
-    Oldschool 808 Patterns
-    <small> - 150 drum sequences for Reason</small>
-  </h1>
-  <h3>Start the oldschool jam now!</h3>
+  <div class="row mb-5">
+    <div class="col-lg-12 text-center">
+      <img class="img-fluid rounded" src="images/oldschool808patterns.jpg" alt="Oldschool 808 Patterns Refill">
+    </div>
+  </div>
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-12">
+      <h1 class="mb-5">
+        Oldschool 808 Patterns
+        <small> - 150 drum sequences for Reason</small>
+      </h1>
+      <h3>Start the oldschool jam now!</h3>
       <p>
         We all know and love the sound of the legendary 808 drum computer.
         In the 1980s, its <strong>massive bass</strong> and <strong>snappy snare</strong> laid the foundation for the era of <strong>electro funk & freestyle music</strong>.
@@ -31,20 +36,24 @@
       </p>
       <ul>
         <li>10 Reason song files adjusted for</li>
-        <ul>
-          <li>Kong "Oldschool 808 Patterns" patch</li>
-          <li>Kong (Drum Supply Refill layout)</li>
-          <li>Kong King Refill</li>
-          <li>Boom 808 Percussion Synth</li>
-          <li>Roland Cloud TR-808</li>
-        </ul>
+        <li class="no-bullet">
+          <ul>
+            <li>Kong "Oldschool 808 Patterns" patch</li>
+            <li>Kong (Drum Supply Refill layout)</li>
+            <li>Kong King Refill</li>
+            <li>Boom 808 Percussion Synth</li>
+            <li>Roland Cloud TR-808</li>
+          </ul>
+        </li>
         <li>3 Kong patches</li>
-        <ul>
-          <li>exclusive "Oldschool 808 Patterns" patch</li>
-          <li>2 Kong King Refill patches</li>
-        </ul>
+        <li class="no-bullet">
+          <ul>
+            <li>exclusive "Oldschool 808 Patterns" patch</li>
+            <li>2 Kong King Refill patches</li>
+          </ul>
+        </li>
       </ul>
-      <p>
+      <p class="mt-5">
         <a class="btn btn-primary" href="downloads/Oldschool808PatternsDemo.zip">
           download demo
         </a>
@@ -52,9 +61,6 @@
           buy
         </a>
       </p>
-    </div>
-    <div class="col-lg-6">
-      <img class="img-fluid rounded" src="images/oldschool808patterns.jpg" alt="Complex Cinema Patch Pack">
     </div>
   </div>
 </div>

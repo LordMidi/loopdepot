@@ -23,3 +23,6 @@ RewriteRule ^complexworld-complex-1-patches-for-reason$ index.php?page=complexwo
 RewriteRule ^complexcinema-complex-1-patches-for-reason$ index.php?page=complexcinema [NC,L]
 RewriteRule ^kongking-kong-patches-for-reason$ index.php?page=kongking [NC,L]
 RewriteRule ^oldschool808patterns-drum-patterns-for-reason$ index.php?page=oldschool808patterns [NC,L]
+RewriteRule ^synthpower-combinator-patches-for-reason$ index.php?page=synthpower [NC,L]
+RewriteRule ^rhythmicfxpack-combinator-patches-for-reason$ index.php?page=rhythmicfxpack [NC,L]
+RewriteRule ^freebies$ index.php?page=freebies [NC,L]

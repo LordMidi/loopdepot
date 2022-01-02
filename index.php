@@ -10,8 +10,26 @@ $template = "";
 $noIndex = false;
 $ogImage = "";
 switch ($_REQUEST["page"]) {
+  case "freebies":
+    $title = "Freebies";
+    $description = "Free combinators & patches for Reason";
+    $template = "freebies";
+    $ogImage = "";
+    break;
+case "rhythmicfxpack":
+    $title = "Rhythmic FX Pack - 8 combinator effect devices for Reason";
+    $description = "8 combinator effect devices for Reason. Gate and split like there is no tomorrow!";
+    $template = "rhythmicfxpack";
+    $ogImage = "rhythmicfxpack_og.jpg";
+    break;
+  case "synthpower":
+    $title = "Synth Power - Powerful synths to boost your up your productions";
+    $description = "100 combinator patches to unleash the power of Reason!";
+    $template = "synthpower";
+    $ogImage = "images/synthpower_og.jpg";
+    break;
   case "oldschool808patterns":
-    $title = "Oldschool 808 patterns - the most popular drum patterns for Reason";
+    $title = "Oldschool 808 patterns - The most popular drum patterns for Reason";
     $description = "150 oldschool drum sequences for Reason. Start your oldschool jam now!";
     $template = "oldschool808patterns";
     $ogImage = "images/oldschool808patterns_og.jpg";

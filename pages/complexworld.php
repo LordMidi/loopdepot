@@ -1,11 +1,16 @@
 <div class="container mb-4">
-  <h1 class="mt-4">
-    Complex World
-    <small> - 200 patches for the Complex-1 Modular Synthesizer</small>
-  </h1>
-  <h3>It's a complex world!</h3>
+  <div class="row mb-5">
+    <div class="col-lg-12 text-center">
+      <img class="img-fluid rounded" src="images/complexworld.jpg" alt="Complex World Patch Pack">
+    </div>
+  </div>
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-12">
+      <h1 class="mb-5">
+        Complex World
+        <small> - 200 patches for the Complex-1 Modular Synthesizer</small>
+      </h1>
+      <h3>It's a complex world!</h3>
       <p>
         200 innovative patches for your Complex-1 Modular Synthesizer. Get ready to explore a new
         world of sounds - it's a complex world!
@@ -37,7 +42,7 @@
       <p>
         The download includes the single patch files AND the Refill version.
       </p>
-      <p>
+      <p class="mt-5">
         <a class="btn btn-primary" href="downloads/ComplexWorldDemo.zip">
           download demo
         </a>
@@ -45,9 +50,6 @@
           buy
         </a>
       </p>
-    </div>
-    <div class="col-lg-6">
-      <img class="img-fluid rounded" src="images/complexworld.jpg" alt="Complex World Patch Pack">
     </div>
   </div>
 </div>
