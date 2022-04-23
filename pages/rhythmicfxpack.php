@@ -28,7 +28,7 @@
         A collection <strong>you don't want to miss</strong> once you have it.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="" target="_blank">
+        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/rhythmic-fx-pack/" target="_blank">
           buy
         </a>
       </p>

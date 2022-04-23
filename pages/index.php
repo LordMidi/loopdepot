@@ -18,6 +18,47 @@
     </div>
   </div>
 </div>
+<div class="rack multibandessentials mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="multibandessentials-combinator-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/multibandessentials_banner.jpg" alt="Multiband Essentials">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Multiband Essentials</h3>
+        <p>
+          10 multiband effect devices split your audio signal into 4 bands to apply individual effects on.
+        </p>
+        <a href="multibandessentials-combinator-patches-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack rhythmicfxpack mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="rhythmicfxpack-combinator-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/rhythmicfxpack_banner.jpg" alt="Rhythmic FX Pack">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Rhythmic FX Pack</h3>
+        <p>
+          8 combinator unique effect devices for Reason using the power of the Combinator.<br>
+          Gate and split like there is no tomorrow
+        </p>
+        <a href="rhythmicfxpack-combinator-patches-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack synthpower mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
@@ -167,21 +208,22 @@
     </div>
   </div>
 </div>
-<div class="rack rhythmicfxpack mb-4">
+<div class="rack kickdrumsynthesizercollection mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-md-7">
-        <a href="rhythmicfxpack-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/rhythmicfxpack_banner.jpg" alt="Rhythmic FX Pack">
+        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kickdrumsynthesizercollection_banner.jpg" alt="Kickdrum Synthesizer Collection">
         </a>
       </div>
       <div class="col-md-5">
-        <h3>Rhythmic FX Pack</h3>
+        <h3>Kickdrum Synthesizer Collection</h3>
         <p>
-          8 combinator unique effect devices for Reason using the power of the Combinator.<br>
-          Gate and split like there is no tomorrow
+          Every music lives and dies by its bass drum.
+          Four Combinator 2 kick drum generators for Reason.<br>
+          DANGER - heavy bass!
         </p>
-        <a href="rhythmicfxpack-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="btn btn-primary index-link">
           more information
         </a>
       </div>

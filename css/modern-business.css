@@ -15,6 +15,10 @@ body {
   margin: 0 auto;
 }
 
+ul {
+  list-style-type: square;
+}
+
 .no-bullet {
   list-style: none;
 }
@@ -59,7 +63,7 @@ nav, .rack {
 
 
 .rack-device {
-  margin: 0 18px;
+  margin: 0 18px 18px 18px;
   max-width: calc(100% - 36px);
 }
 
@@ -119,7 +123,7 @@ nav, .rack {
   }
 }
 
-.complexworld .youtube {
+.complexworld .youtube, .complexcinema .youtube {
   border-top: 1px solid #888888;
   border-left: 1px solid #888888;
   border-bottom: 1px solid #eeeeee;
@@ -187,4 +191,25 @@ nav, .rack {
   border-right: 1px solid #111;
   border-top: 1px solid #555;
   border-left: 1px solid #555;
+}
+
+.multibandessentials {
+  color: #4C4C4C;
+  background: linear-gradient(to top, #aaaaaa 70%, #999999);
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-bottom: 1px solid #666666;
+  border-right: 1px solid #666666;
+}
+@media (min-width: 650px) {
+  .multibandessentials {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #aaaaaa 70%, #999999);
+  }
+}
+
+.multibandessentials .youtube {
+  border-top: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-bottom: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
 }

@@ -51,7 +51,7 @@
     </div>
   </div>
 </div>
-<div class="rack complexworld mb-4">
+<div class="rack complexcinema mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-lg-12 col-centered text-center">

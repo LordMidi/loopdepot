@@ -16,7 +16,19 @@ switch ($_REQUEST["page"]) {
     $template = "freebies";
     $ogImage = "";
     break;
-case "rhythmicfxpack":
+  case "kickdrumsynthesizercollection":
+    $title = "Kickdrum Synthesizer Collection - 4 kick drum combinators for Reason.";
+    $description = "Four Combinator 2 kick drum generators for Reason.";
+    $template = "kickdrumsynthesizercollection";
+    $ogImage = "kickdrumsynthesizercollection_og.jpg";
+    break;
+  case "multibandessentials":
+    $title = "Multiband Essentials - 10 multiband effect devices for Reason.";
+    $description = "10 multiband effect devices split your audio signal into 4 bands to apply individual effects on.";
+    $template = "multibandessentials";
+    $ogImage = "multibandessentials_og.jpg";
+    break;
+  case "rhythmicfxpack":
     $title = "Rhythmic FX Pack - 8 combinator effect devices for Reason";
     $description = "8 combinator effect devices for Reason. Gate and split like there is no tomorrow!";
     $template = "rhythmicfxpack";
