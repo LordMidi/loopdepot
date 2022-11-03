@@ -40,7 +40,7 @@
         Reason 12 or Reason+ is required
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/multiband-essentials/" target="_blank">
+        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/kickdrum-synthesizer-collection/" target="_blank">
           buy
         </a>
       </p>

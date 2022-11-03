@@ -18,6 +18,51 @@
     </div>
   </div>
 </div>
+<div class="rack satisfriktion mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="satisfriktion-patches-for-friktion-modeled-strings-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/satisfriktion_banner.jpg" alt="Satisfriktion">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Satisfriktion</h3>
+        <p>
+          500 patches for the Friktion Modeled Strings Synthesizer.
+          Extra ordinary presets for your next tune or soundtrack.
+          <br><br>
+          I can't get no satisfaction without Satisfriktion!
+        </p>
+        <a href="satisfriktion-patches-for-friktion-modeled-strings-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack kickdrumsynthesizercollection mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kickdrumsynthesizercollection_banner.jpg" alt="Kickdrum Synthesizer Collection">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Kickdrum Synthesizer Collection</h3>
+        <p>
+          Every music lives and dies by its bass drum.
+          Four Combinator 2 kick drum generators for Reason.<br>
+          DANGER - heavy bass!
+        </p>
+        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack multibandessentials mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
@@ -208,22 +253,23 @@
     </div>
   </div>
 </div>
-<div class="rack kickdrumsynthesizercollection mb-4">
+<div class="rack amalgamcinema mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-md-7">
-        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kickdrumsynthesizercollection_banner.jpg" alt="Kickdrum Synthesizer Collection">
+        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/amalgamcinema_banner.jpg" alt="Satisfriktion">
         </a>
       </div>
       <div class="col-md-5">
-        <h3>Kickdrum Synthesizer Collection</h3>
+        <h3>Amalgam Cinema</h3>
         <p>
-          Every music lives and dies by its bass drum.
-          Four Combinator 2 kick drum generators for Reason.<br>
-          DANGER - heavy bass!
+          Sounds from outer space brought to planet earth.
+          Atmospheric presets for the future - available now.
+          <br>
+          300 patches for the Amalgam FM Synthesizer.
         </p>
-        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="btn btn-primary index-link">
           more information
         </a>
       </div>

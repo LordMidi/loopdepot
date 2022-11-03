@@ -74,6 +74,11 @@ nav, .rack {
   height: 450px;
   max-width: 100%;
 }
+@media (max-width: 650px) {
+  .youtube {
+    height: 250px;
+  }
+}
 
 .cookies {
   color: #000000;
@@ -172,7 +177,7 @@ nav, .rack {
   border-left: 1px solid #bf91b8;
 }
 
-.rhythmicfxpack {
+.rhythmicfxpack, .amalgamcinema {
   color: #ffffff;
   background: linear-gradient(to top, #444 40%, #333);
   border-top: 1px solid #555;
@@ -181,12 +186,12 @@ nav, .rack {
   border-right: 1px solid #111;
 }
 @media (min-width: 650px) {
-  .rhythmicfxpack {
+  .rhythmicfxpack, .amalgamcinema {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #444 40%, #333);
   }
 }
 
-.rhythmicfxpack .youtube {
+.rhythmicfxpack .youtube, .amalgamcinema .youtube {
   border-bottom: 1px solid #111;
   border-right: 1px solid #111;
   border-top: 1px solid #555;
@@ -213,3 +218,29 @@ nav, .rack {
   border-bottom: 1px solid #cccccc;
   border-right: 1px solid #cccccc;
 }
+
+.satisfriktion {
+  color: #ffffff;
+  background: linear-gradient(to top, #213e46 70%, #182d33);
+  border-top: 1px solid #305965;
+  border-left: 1px solid #305965;
+  border-bottom: 1px solid #101e22;
+  border-right: 1px solid #101e22;
+}
+@media (min-width: 650px) {
+  .satisfriktion {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #213e46 70%, #182d33);
+  }
+}
+
+.satisfriktion .youtube {
+  border-top: 1px solid #305965;
+  border-left: 1px solid #305965;
+  border-bottom: 1px solid #101e22;
+  border-right: 1px solid #101e22;
+}
+
+
+
+
+

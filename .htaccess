@@ -27,4 +27,6 @@ RewriteRule ^synthpower-combinator-patches-for-reason$ index.php?page=synthpower
 RewriteRule ^rhythmicfxpack-combinator-patches-for-reason$ index.php?page=rhythmicfxpack [NC,L]
 RewriteRule ^multibandessentials-combinator-patches-for-reason$ index.php?page=multibandessentials [NC,L]
 RewriteRule ^kickdrum-synthesizer-collection-combinator-patches-for-reason$ index.php?page=kickdrumsynthesizercollection [NC,L]
+RewriteRule ^satisfriktion-patches-for-friktion-modeled-strings-for-reason$ index.php?page=satisfriktion [NC,L]
+RewriteRule ^amalgamcinema-amalgam-synthesizer-patches-for-reason$ index.php?page=amalgamcinema [NC,L]
 RewriteRule ^freebies$ index.php?page=freebies [NC,L]

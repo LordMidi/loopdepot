@@ -16,6 +16,18 @@ switch ($_REQUEST["page"]) {
     $template = "freebies";
     $ogImage = "";
     break;
+  case "amalgamcinema":
+    $title = "Amalgam Cinema - 300 patches for Amalgam";
+    $description = "300 patches for the Amalgam FM Synthesizer for Reason.";
+    $template = "amalgamcinema";
+    $ogImage = "";
+    break;
+  case "satisfriktion":
+    $title = "Satisfriktion - 500 patches for Friktion";
+    $description = "500 patches for the Friktion Modeled Strings Synthesizer for Reason.";
+    $template = "satisfriktion";
+    $ogImage = "";
+    break;
   case "kickdrumsynthesizercollection":
     $title = "Kickdrum Synthesizer Collection - 4 kick drum combinators for Reason.";
     $description = "Four Combinator 2 kick drum generators for Reason.";
@@ -82,7 +94,7 @@ switch ($_REQUEST["page"]) {
     $noIndex = true;
     break;
   default:
-    $title = "Loop Depot - Reason Refills & stuff";
+    $title = "Loop Depot - ReFills, Combinators & patches for Reason";
     $description = "Presets, patches & sounds for Reason.";
     $template = "index";
 }  
