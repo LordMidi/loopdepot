@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="cover-image img-fluid rounded" src="images/multibandessentials.jpg" alt="Rhythmic FX Pack Patch Pack">
+      <img class="cover-image img-fluid rounded" src="images/multibandessentials/cover.jpg" alt="Rhythmic FX Pack Patch Pack">
     </div>
   </div>
   <div class="row">
@@ -63,13 +63,13 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/multibandchorus.jpg" alt="Multiband Chorus">
-<img class="rack-device" src="images/multibandcompressor.jpg" alt="Multiband Compressor">
-<img class="rack-device" src="images/multibanddelay.jpg" alt="Multiband Delay">
-<img class="rack-device" src="images/multibanddistortion.jpg" alt="Multiband Distortion">
-<img class="rack-device" src="images/multibandflanger.jpg" alt="Multiband Flanger">
-<img class="rack-device" src="images/multibandmixer.jpg" alt="Multiband Mixer">
-<img class="rack-device" src="images/multibandphaser.jpg" alt="Multiband Phaser">
-<img class="rack-device" src="images/multibandpitch.jpg" alt="Multiband Pitch">
-<img class="rack-device" src="images/multibandretro.jpg" alt="Multiband Retro">
-<img class="rack-device" src="images/multibandreverb.jpg" alt="Multiband Reverb">
+<img class="rack-device" src="images/multibandessentials/multibandchorus.jpg" alt="Multiband Chorus">
+<img class="rack-device" src="images/multibandessentials/multibandcompressor.jpg" alt="Multiband Compressor">
+<img class="rack-device" src="images/multibandessentials/multibanddelay.jpg" alt="Multiband Delay">
+<img class="rack-device" src="images/multibandessentials/multibanddistortion.jpg" alt="Multiband Distortion">
+<img class="rack-device" src="images/multibandessentials/multibandflanger.jpg" alt="Multiband Flanger">
+<img class="rack-device" src="images/multibandessentials/multibandmixer.jpg" alt="Multiband Mixer">
+<img class="rack-device" src="images/multibandessentials/multibandphaser.jpg" alt="Multiband Phaser">
+<img class="rack-device" src="images/multibandessentials/multibandpitch.jpg" alt="Multiband Pitch">
+<img class="rack-device" src="images/multibandessentials/multibandretro.jpg" alt="Multiband Retro">
+<img class="rack-device" src="images/multibandessentials/multibandreverb.jpg" alt="Multiband Reverb">

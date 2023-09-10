@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="cover-image img-fluid rounded" src="images/kickdrumsynthesizercollection.jpg" alt="Kickdrum Synthesizer Collection">
+      <img class="cover-image img-fluid rounded" src="images/kickdrumsynthesizercollection/cover.jpg" alt="Kickdrum Synthesizer Collection">
     </div>
   </div>
   <div class="row">
@@ -56,7 +56,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/ld-060.jpg" alt="LD-060 Kickdrum Synthesizer">
-<img class="rack-device" src="images/ld-070.jpg" alt="LD-070 Kickdrum Synthesizer">
-<img class="rack-device" src="images/ld-080.jpg" alt="LD-080 Kickdrum Synthesizer">
-<img class="rack-device" src="images/ld-090.jpg" alt="LD-090 Kickdrum Synthesizer">
+<img class="rack-device" src="images/kickdrumsynthesizercollection/ld-060.jpg" alt="LD-060 Kickdrum Synthesizer">
+<img class="rack-device" src="images/kickdrumsynthesizercollection/ld-070.jpg" alt="LD-070 Kickdrum Synthesizer">
+<img class="rack-device" src="images/kickdrumsynthesizercollection/ld-080.jpg" alt="LD-080 Kickdrum Synthesizer">
+<img class="rack-device" src="images/kickdrumsynthesizercollection/ld-090.jpg" alt="LD-090 Kickdrum Synthesizer">

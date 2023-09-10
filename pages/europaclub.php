@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="img-fluid rounded" src="images/europaclub.jpg" alt="Europaclub Patch Pack">
+      <img class="img-fluid rounded" src="images/europaclub/cover.jpg" alt="Europaclub Patch Pack">
     </div>
   </div>  
   <div class="row">

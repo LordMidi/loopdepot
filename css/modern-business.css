@@ -27,6 +27,10 @@ button:hover, a:hover {
   transform: rotate(2deg) !important;
 }
 
+.btn {
+  font-size: 1.5rem;
+}
+
 h1 small {
   color: #999;
 }

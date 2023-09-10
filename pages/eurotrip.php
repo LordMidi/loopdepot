@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="img-fluid rounded" src="images/eurotrip.jpg" alt="Eurotrip Refill">
+      <img class="img-fluid rounded" src="images/eurotrip/cover.jpg" alt="Eurotrip Refill">
     </div>
   </div>
   <div class="row">

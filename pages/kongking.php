@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="img-fluid rounded" src="images/kongking.jpg" alt="Kong King Refill">
+      <img class="img-fluid rounded" src="images/kongking/cover.jpg" alt="Kong King Refill">
     </div>
   </div>
   <div class="row">

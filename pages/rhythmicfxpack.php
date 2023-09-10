@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="cover-image img-fluid rounded" src="images/rhythmicfxpack.jpg" alt="Rhythmic FX Pack Patch Pack">
+      <img class="cover-image img-fluid rounded" src="images/rhythmicfxpack/cover.jpg" alt="Rhythmic FX Pack Patch Pack">
     </div>
   </div>
   <div class="row">
@@ -55,7 +55,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/band.it.jpg" alt="Band.it">
+<img class="rack-device" src="images/rhythmicfxpack/band.it.jpg" alt="Band.it">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -68,7 +68,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/djfake.jpg" alt="DJ Fake">
+<img class="rack-device" src="images/rhythmicfxpack/djfake.jpg" alt="DJ Fake">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -81,7 +81,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/filtereo.jpg" alt="Filtereo">
+<img class="rack-device" src="images/rhythmicfxpack/filtereo.jpg" alt="Filtereo">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -94,7 +94,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/gatinator.jpg" alt="Gatinator">
+<img class="rack-device" src="images/rhythmicfxpack/gatinator.jpg" alt="Gatinator">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -108,7 +108,7 @@
     </div>
   </div>
   </div>
-<img class="rack-device" src="images/pitchflipper.jpg" alt="Pitch Flipper">
+<img class="rack-device" src="images/rhythmicfxpack/pitchflipper.jpg" alt="Pitch Flipper">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -121,7 +121,7 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/screamduet.jpg" alt="Scream Duet">
+<img class="rack-device" src="images/rhythmicfxpack/screamduet.jpg" alt="Scream Duet">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -133,8 +133,8 @@
       </p>
     </div>
   </div>
-  </div>
-<img class="rack-device" src="images/splitterverb.jpg" alt="Splitterverb">
+</div>
+<img class="rack-device" src="images/rhythmicfxpack/splitterverb.jpg" alt="Splitterverb">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
@@ -147,4 +147,4 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/wobblino.jpg" alt="Wobblino">
+<img class="rack-device" src="images/rhythmicfxpack/wobblino.jpg" alt="Wobblino">

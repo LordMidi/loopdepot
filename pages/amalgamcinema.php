@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="img-fluid rounded" src="images/amalgamcinema.jpg" alt="Amalgam Cinema ReFill">
+      <img class="img-fluid rounded" src="images/amalgamcinema/cover.jpg" alt="Amalgam Cinema ReFill">
     </div>
   </div>
   <div class="row">
@@ -37,11 +37,15 @@
         <li>5 Combinator 2 effect patches</li>
       </ul>
       <p>
-        The download includes the single patch files AND the ReFill version.
+        The download includes the single patch files AND the ReFill version.<br>
+        Reason 12 or Reason+ is required for the Combinator 2 patches
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="" target="_blank">
-          soon available
+        <a class="btn btn-primary" href="downloads/AmalgamCinemaDemo.zip">
+          download demo
+        </a>
+        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/amalgam-cinema/" target="_blank">
+          buy
         </a>
       </p>
     </div>
@@ -56,4 +60,4 @@
     </div>
   </div>
 </div>
-<img class="rack-device" src="images/amalgamcinama_effects.jpg" alt="Amalgam Cinema Effects">
+<img class="rack-device" src="images/amalgamcinema/effects.jpg" alt="Amalgam Cinema Effects">

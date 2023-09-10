@@ -29,4 +29,4 @@ RewriteRule ^multibandessentials-combinator-patches-for-reason$ index.php?page=m
 RewriteRule ^kickdrum-synthesizer-collection-combinator-patches-for-reason$ index.php?page=kickdrumsynthesizercollection [NC,L]
 RewriteRule ^satisfriktion-patches-for-friktion-modeled-strings-for-reason$ index.php?page=satisfriktion [NC,L]
 RewriteRule ^amalgamcinema-amalgam-synthesizer-patches-for-reason$ index.php?page=amalgamcinema [NC,L]
-RewriteRule ^freebies$ index.php?page=freebies [NC,L]
+RewriteRule ^free-patches-and-combinators-for-reason$ index.php?page=free [NC,L]

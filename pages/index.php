@@ -1,6 +1,6 @@
 <div class="container mb-4">
   <div class="row">
-    <div class="col-lg-7">
+    <div class="col-lg-12">
       <h2>Welcome to the depot!</h2>
       <p>
         Being in love with music making for decades, we now want to share our passion
@@ -18,12 +18,56 @@
     </div>
   </div>
 </div>
+<div class="rack mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="free-patches-and-combinators-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/free/banner.jpg" alt="4 free">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Free area</h3>
+        <p>
+          Extend your Reason arsenal without any costs.
+          Download now!
+        </p>
+        <a href="free-patches-and-combinators-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack amalgamcinema mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/amalgamcinema/banner.jpg" alt="Amalgam Cinema">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Amalgam Cinema</h3>
+        <p>
+          Sounds from outer space brought to planet earth.
+          Atmospheric presets for the future - available now.
+          <br>
+          300 patches for the Amalgam FM Synthesizer.
+        </p>
+        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="btn btn-primary index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack satisfriktion mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
       <div class="col-md-7">
         <a href="satisfriktion-patches-for-friktion-modeled-strings-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/satisfriktion_banner.jpg" alt="Satisfriktion">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/satisfriktion/banner.jpg" alt="Satisfriktion">
         </a>
       </div>
       <div class="col-md-5">
@@ -46,7 +90,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kickdrumsynthesizercollection_banner.jpg" alt="Kickdrum Synthesizer Collection">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kickdrumsynthesizercollection/banner.jpg" alt="Kickdrum Synthesizer Collection">
         </a>
       </div>
       <div class="col-md-5">
@@ -68,7 +112,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="multibandessentials-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/multibandessentials_banner.jpg" alt="Multiband Essentials">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/multibandessentials/banner.jpg" alt="Multiband Essentials">
         </a>
       </div>
       <div class="col-md-5">
@@ -88,7 +132,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="rhythmicfxpack-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/rhythmicfxpack_banner.jpg" alt="Rhythmic FX Pack">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/rhythmicfxpack/banner.jpg" alt="Rhythmic FX Pack">
         </a>
       </div>
       <div class="col-md-5">
@@ -109,7 +153,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="synthpower-combinator-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/synthpower_banner.jpg" alt="Synth Power">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/synthpower/banner.jpg" alt="Synth Power">
         </a>
       </div>
       <div class="col-md-5">
@@ -130,7 +174,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="oldschool808patterns-drum-patterns-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/oldschool808patterns_banner.jpg" alt="Oldschool 808 Patterns Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/oldschool808patterns/banner.jpg" alt="Oldschool 808 Patterns Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -152,7 +196,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="kongking-kong-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kongking_banner.jpg" alt="Kong King Refill Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/kongking/banner.jpg" alt="Kong King Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -173,7 +217,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="complexcinema-complex-1-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/complexcinema_banner.jpg" alt="Complex World Refill Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/complexcinema/banner.jpg" alt="Complex World Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -194,7 +238,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="complexworld-complex-1-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/complexworld_banner.jpg" alt="Complex World Refill Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/complexworld/banner.jpg" alt="Complex World Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -216,7 +260,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="europaclub-europa-patches-for-reason-and-vst" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/europaclub_banner.jpg" alt="Europa Club Refill Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/europaclub/banner.jpg" alt="Europa Club Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -237,7 +281,7 @@
     <div class="row">
       <div class="col-md-7">
         <a href="eurotrip-europa-patches-for-reason-and-vst" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/eurotrip_banner.jpg" alt="Eurotrip Refill Banner">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/eurotrip/banner.jpg" alt="Eurotrip Refill Banner">
         </a>
       </div>
       <div class="col-md-5">
@@ -247,29 +291,6 @@
           200 patches for the Europa Synthesizer.
         </p>
         <a href="eurotrip-europa-patches-for-reason-and-vst" class="btn btn-primary index-link">
-          more information
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="rack amalgamcinema mb-4">
-  <div class="container mt-4 mb-4">
-    <div class="row">
-      <div class="col-md-7">
-        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/amalgamcinema_banner.jpg" alt="Satisfriktion">
-        </a>
-      </div>
-      <div class="col-md-5">
-        <h3>Amalgam Cinema</h3>
-        <p>
-          Sounds from outer space brought to planet earth.
-          Atmospheric presets for the future - available now.
-          <br>
-          300 patches for the Amalgam FM Synthesizer.
-        </p>
-        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="btn btn-primary index-link">
           more information
         </a>
       </div>

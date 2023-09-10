@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row mb-5">
     <div class="col-lg-12 text-center">
-      <img class="img-fluid rounded" src="images/complexcinema.jpg" alt="Complex Cinema Patch Pack">
+      <img class="img-fluid rounded" src="images/complexcinema/cover.jpg" alt="Complex Cinema Patch Pack">
     </div>
   </div>
   <div class="row">
