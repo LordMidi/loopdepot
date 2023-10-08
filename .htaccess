@@ -1,3 +1,9 @@
+Header add Strict-Transport-Security "max-age=31536000; includeSubDomains"
+Header add X-Frame-Options "SAMEORIGIN"
+Header add X-Content-Type-Options "nosniff"
+Header add Referrer-Policy "same-origin"
+Header add Content-Security-Policy "default-src https:"
+
 RewriteEngine On
 RewriteBase /
 
@@ -29,4 +35,6 @@ RewriteRule ^multibandessentials-combinator-patches-for-reason$ index.php?page=m
 RewriteRule ^kickdrum-synthesizer-collection-combinator-patches-for-reason$ index.php?page=kickdrumsynthesizercollection [NC,L]
 RewriteRule ^satisfriktion-patches-for-friktion-modeled-strings-for-reason$ index.php?page=satisfriktion [NC,L]
 RewriteRule ^amalgamcinema-amalgam-synthesizer-patches-for-reason$ index.php?page=amalgamcinema [NC,L]
+RewriteRule ^good-ol-days-regrooves-regroove-mixer-patches-for-reason$ index.php?page=goodoldaysregrooves [NC,L]
+RewriteRule ^tribute-neurotone-pack-for-reason$ index.php?page=tributeneurotonepack [NC,L]
 RewriteRule ^free-patches-and-combinators-for-reason$ index.php?page=free [NC,L]

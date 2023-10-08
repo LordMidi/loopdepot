@@ -13,7 +13,7 @@
         Is it effective? Yes! Is it easy? Yes! Is it free? Hell yeah 💀
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/DrumPepper.cmb">
+        <a class="btn btn-primary" href="downloads/free/DrumPepper.cmb">
           download
         </a>
       </p>
@@ -32,7 +32,7 @@
         If you want to get the <strong>complete</strong> multiband effect experience look here: <a href="https://loopdepot.com/multibandessentials-combinator-patches-for-reason">Multiband Essentials</a>
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/MultibandDistortion.cmb">
+        <a class="btn btn-primary" href="downloads/free/MultibandDistortion.cmb">
           download
         </a>
       </p>
@@ -49,7 +49,7 @@
         Enjoy the unique design 😉
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/BazzMaschine.cmb">
+        <a class="btn btn-primary" href="downloads/free/BazzMaschine.cmb">
           download
         </a>
       </p>
@@ -65,7 +65,7 @@
         A simple stereo to <strong>mono converter</strong>. Useful for checking the mono compatibility of your tracks.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/Mono.cmb">
+        <a class="btn btn-primary" href="downloads/free/Mono.cmb">
           download
         </a>
       </p>
@@ -81,7 +81,7 @@
         High quality reverb based on the <a href="https://www.reasonstudios.com/shop/rack-extension/complex-1-modular-synthesizer/">Complex-1 synthesizer</a> - which is <strong>required</strong> for this Combinator.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/ComplexReverb.cmb">
+        <a class="btn btn-primary" href="downloads/free/ComplexReverb.cmb">
           download
         </a>
       </p>
@@ -98,7 +98,7 @@
         Easy to use but <strong>very effective</strong>.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/Zapper9000.cmb">
+        <a class="btn btn-primary" href="downloads/free/Zapper9000.cmb">
           download
         </a>
       </p>
@@ -116,7 +116,7 @@
         <strong>Hardcore will never die!</strong> 💀
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="downloads/free/ThunderBass.cmb">
+        <a class="btn btn-primary" href="downloads/free/ThunderBass.cmb">
           download
         </a>
       </p>

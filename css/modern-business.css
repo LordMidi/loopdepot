@@ -98,6 +98,34 @@ nav, .rack {
   }
 }
 
+.tributeneurotonepack {
+  color: #222222;
+  background: linear-gradient(to top, #43E0D8 70%, #20B7AF);
+  border-top: 1px solid #81EAE5;
+  border-left: 1px solid #81EAE5;
+  border-bottom: 1px solid #189791;
+  border-right: 1px solid #189791;
+}
+@media (min-width: 650px) {
+  .goodoldaysregrooves {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #43E0D8 70%, #20B7AF);
+  }
+}
+
+.goodoldaysregrooves {
+  color: #222222;
+  background: linear-gradient(to top, #E38640 70%, #FFD945);
+  border-top: 1px solid #EAA978;
+  border-left: 1px solid #EAA978;
+  border-bottom: 1px solid #AA56;
+  border-right: 1px solid #AA56;
+}
+@media (min-width: 650px) {
+  .goodoldaysregrooves {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #E38640 70%, #FFD945);
+  }
+}
+
 .eurotrip, .europaclub {
   background: linear-gradient(to top, #cc1c00 70%, #b11800);
   border-top: 1px solid #ff583e;

@@ -14,6 +14,16 @@ switch ($_REQUEST["page"]) {
     $description = "Free combinators & patches for Reason";
     $template = "free";
     break;
+  case "tributeneurotonepack":
+    $title = "Tribute Neurotone Pack - 100 patches for ReGroove Mixer";
+    $description = "100 patches for the ReGroove Mixer for Reason.";
+    $template = "tributeneurotonepack";
+    break;
+  case "goodoldaysregrooves":
+    $title = "Good Ol Days ReGrooves - 100 patches for ReGroove Mixer";
+    $description = "100 patches for the ReGroove Mixer for Reason.";
+    $template = "goodoldaysregrooves";
+    break;
   case "amalgamcinema":
     $title = "Amalgam Cinema - 300 patches for Amalgam";
     $description = "300 patches for the Amalgam FM Synthesizer for Reason.";

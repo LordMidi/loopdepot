@@ -1,7 +1,8 @@
 <div class="container mb-4">
   <div class="row">
     <div class="col-lg-12">
-      <h2>Welcome to the depot!</h2>
+      <h1>Refills, patches, Combinators for Reason</h1>
+      <h2>Download the demos & free packs</h2>
       <p>
         Being in love with music making for decades, we now want to share our passion
         with other <strong>producers, beat makers and DJs</strong> around the world.
@@ -23,16 +24,58 @@
     <div class="row">
       <div class="col-md-7">
         <a href="free-patches-and-combinators-for-reason" class="index-link">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="images/free/banner.jpg" alt="4 free">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/free/banner.jpg" alt="Free Reason Combinators">
         </a>
       </div>
       <div class="col-md-5">
         <h3>Free area</h3>
         <p>
-          Extend your Reason arsenal without any costs.
+          Extend your Reason arsenal <strong>without any costs</strong>.
           Download now!
         </p>
-        <a href="free-patches-and-combinators-for-reason" class="btn btn-primary index-link">
+        <a href="free-patches-and-combinators-for-reason" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack tributeneurotonepack mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="tribute-neurotone-pack-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/tributeneurotonepack/banner.jpg" alt="Tribute Neurotone Pack Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Tribute Neurotone Pack</h3>
+        <p>
+        It's time to pay Tribute!<br>
+          250 Combinator 2 & 150 <strong>Tribute Wavetable Synthesizer</strong> patches
+        </p>
+        <a href="tribute-neurotone-pack-for-reason" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack goodoldaysregrooves mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="good-ol-days-regrooves-regroove-mixer-patches-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/goodoldaysregrooves/banner.jpg" alt="Good Ol Days ReGrooves">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Good Ol Days ReGrooves</h3>
+        <p>
+          100 patches for the Reason ReGroove Mixer<br>
+          Get your old school groove on with this <strong>FREE patch pack</strong>!
+        </p>
+        <a href="good-ol-days-regrooves-regroove-mixer-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -55,7 +98,7 @@
           <br>
           300 patches for the Amalgam FM Synthesizer.
         </p>
-        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="btn btn-primary index-link">
+        <a href="amalgamcinema-amalgam-synthesizer-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -78,7 +121,7 @@
           <br><br>
           I can't get no satisfaction without Satisfriktion!
         </p>
-        <a href="satisfriktion-patches-for-friktion-modeled-strings-for-reason" class="btn btn-primary index-link">
+        <a href="satisfriktion-patches-for-friktion-modeled-strings-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -100,7 +143,7 @@
           Four Combinator 2 kick drum generators for Reason.<br>
           DANGER - heavy bass!
         </p>
-        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="kickdrum-synthesizer-collection-combinator-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -120,7 +163,7 @@
         <p>
           10 multiband effect devices split your audio signal into 4 bands to apply individual effects on.
         </p>
-        <a href="multibandessentials-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="multibandessentials-combinator-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -141,7 +184,7 @@
           8 combinator unique effect devices for Reason using the power of the Combinator.<br>
           Gate and split like there is no tomorrow
         </p>
-        <a href="rhythmicfxpack-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="rhythmicfxpack-combinator-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -162,7 +205,7 @@
           100 combinator patches to unleash the synth power of Reason.
           Clean church organs, low hitting basses or epic hardcore horns - Synth Power has it all.
         </p>
-        <a href="synthpower-combinator-patches-for-reason" class="btn btn-primary index-link">
+        <a href="synthpower-combinator-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -184,7 +227,7 @@
           No samples!
           Drum notes for your track to get the oldschool jam started.
         </p>
-        <a href="oldschool808patterns-drum-patterns-for-reason" class="btn btn-primary index-link">
+        <a href="oldschool808patterns-drum-patterns-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -205,7 +248,7 @@
           50 drum kit patches for the Kong drum designer and 7 effect combinators.
           Let the rhythm hit 'em!
         </p>
-        <a href="kongking-kong-patches-for-reason" class="btn btn-primary index-link">
+        <a href="kongking-kong-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -226,7 +269,7 @@
           200 cinematic patches for the Complex-1 Modular Synthesizer.
           Complex soundtracks made simple!
        </p>
-        <a href="complexcinema-complex-1-patches-for-reason" class="btn btn-primary index-link">
+        <a href="complexcinema-complex-1-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -248,7 +291,7 @@
           Get ready to explore a new
           world of sounds - it's a complex world!
        </p>
-        <a href="complexworld-complex-1-patches-for-reason" class="btn btn-primary index-link">
+        <a href="complexworld-complex-1-patches-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -269,7 +312,7 @@
           Loop Depot proudly presents... another tour through europe's electronic club scene.
           180 rhythmic presets that catch the vibe of the hottest dancefloors across europe.
        </p>
-        <a href="europaclub-europa-patches-for-reason-and-vst" class="btn btn-primary index-link">
+        <a href="europaclub-europa-patches-for-reason-and-vst" class="btn btn-danger index-link">
           more information
         </a>
       </div>
@@ -290,7 +333,7 @@
           Get on a trip around the european underground club scene.<br>
           200 patches for the Europa Synthesizer.
         </p>
-        <a href="eurotrip-europa-patches-for-reason-and-vst" class="btn btn-primary index-link">
+        <a href="eurotrip-europa-patches-for-reason-and-vst" class="btn btn-danger index-link">
           more information
         </a>
       </div>
