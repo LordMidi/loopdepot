@@ -1,6 +1,78 @@
 <div class="container mb-4">
-  <h1 class="mt-4">Free Combinator 2 devices for Reason.</h1>
+  <h1 class="mt-4">Free patches & Combinator 2 devices for Reason.</h1>
   <br><br>
+</div>
+<img class="rack-device" src="images/free/patchesbanner.jpg" alt="Reason Studio Patch">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+      <h3>Iconic HipHop - <small>Pattern Mutator patch</small></h3>
+      <p>
+        A patch for the patter mutator including 8 iconic hip hop melodies from the past. Yo feel me brother?!<br>
+        Ruff Ryders Anthem - Yeah - Ice Ice Baby - In Da Club - Push It - Next Episode - Big Poppa - Still D.R.E.
+      </p> 
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/IconicHipHop.repatch">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+<img class="rack-device" src="images/free/patchesbanner.jpg" alt="Reason Studio Patch">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+      <h3>Epic Dance - <small>Pattern Mutator patch</small></h3>
+      <p>
+        A patch for the patter mutator including 8 epic dance melodies from the past. Timeless and ready to dance!<br>
+        Meet Her At The Loveparade - L'Amour Toujours - Sandstorm - Better Of Alone - Insomnia - Equador - Encore Une Fois - Around The World
+      </p>
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/EpicDance.repatch">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+<img class="rack-device" src="images/free/complexcombdelay.jpg" alt="Complex Comb Delay">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+      <h3>Complex Comb Delay - <small>Combinator 2 effect patch</small></h3>
+      <p>
+        The Complex-1 synthesizer offers a lot of nice effects on board. One of them is a powerful <strong>comb delay</strong>.
+        This Combinator 2 patch allows you to <strong>access this effect outside Complex-1.</strong>
+        Additionally, there are LFOs for the left and right channel available to add some <strong>stereo movement</strong> to the sound transformation.<br>
+        <a href="https://www.reasonstudios.com/shop/rack-extension/complex-1-modular-synthesizer/">Complex-1 synthesizer</a> required.
+      </p>
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/ComplexCombDelay.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+<img class="rack-device" src="images/free/ott.jpg" alt="Ott">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+      <h3>Ott - <small>Combinator 2 effect patch</small></h3>
+      <p>
+        The perfect rack device wrapper for the free <a href="https://xferrecords.com/freeware">Xfer OTT VST</a>.
+        From the creators of Serum is this free <strong>aggressive multiband upwards/downwards compressor</strong>.
+        Be sure <strong>to have it installed</strong> to use this Combinator.<br>
+        Definitely a must have in your effect arsenal. 
+      </p>
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/Ott.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
 </div>
 <img class="rack-device" src="images/free/drumpepper.jpg" alt="Drum Pepper">
 <div class="container mt-4 mb-4">

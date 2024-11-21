@@ -1,7 +1,5 @@
 Header add Strict-Transport-Security "max-age=31536000; includeSubDomains"
 Header add X-Frame-Options "SAMEORIGIN"
-Header add X-Content-Type-Options "nosniff"
-Header add Referrer-Policy "same-origin"
 Header add Content-Security-Policy "default-src https:"
 
 RewriteEngine On
