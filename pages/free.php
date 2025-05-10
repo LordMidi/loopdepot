@@ -2,13 +2,33 @@
   <h1 class="mt-4">Free patches & Combinator 2 devices for Reason.</h1>
   <br><br>
 </div>
+<img class="rack-device" src="images/free/lofimofo.jpg" alt="LoFiMoFo">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+    <h3>LoFiMoFo - <small>Combinator 2 effect patch</small></h3>
+      <p>
+        LoFiMoFo is the ultimate Combinator 2 patch to <strong>add LoFi effects to your sounds</strong>.
+        No matter if it is a drum beat or a piano - it will make the job.<br>
+        The big knob in the center let you adjust the level of the <strong>parallel compression sounds,</strong>
+        which are added to the original to get that lovely <strong>old school vibe</strong>.<br>
+        Just try it - it's free Mofo!
+      </p> 
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/LoFiMoFo.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 <img class="rack-device" src="images/free/patchesbanner.jpg" alt="Reason Studio Patch">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
       <h3>Iconic HipHop - <small>Pattern Mutator patch</small></h3>
       <p>
-        A patch for the patter mutator including 8 iconic hip hop melodies from the past. Yo feel me brother?!<br>
+        A patch for the patter mutator including <strong>8 iconic hip hop melodies</strong> from the past. Yo feel me brother?!<br>
         Ruff Ryders Anthem - Yeah - Ice Ice Baby - In Da Club - Push It - Next Episode - Big Poppa - Still D.R.E.
       </p> 
       <p class="mt-5">
@@ -25,7 +45,7 @@
     <div class="col-12">
       <h3>Epic Dance - <small>Pattern Mutator patch</small></h3>
       <p>
-        A patch for the patter mutator including 8 epic dance melodies from the past. Timeless and ready to dance!<br>
+        A patch for the patter mutator including <strong>8 epic dance melodies</strong> from the past. Timeless and ready to dance!<br>
         Meet Her At The Loveparade - L'Amour Toujours - Sandstorm - Better Of Alone - Insomnia - Equador - Encore Une Fois - Around The World
       </p>
       <p class="mt-5">
