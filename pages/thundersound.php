@@ -31,6 +31,9 @@
         The download includes the single patch files AND the Refill version.
       </p>
       <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/ThundersoundDemo.zip">
+          download demo
+       </a>
         <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/thundersound" target="_blank">
           buy @ Gumroad
         </a>
