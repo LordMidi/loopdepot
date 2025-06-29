@@ -44,8 +44,11 @@
         <a class="btn btn-primary" href="downloads/EurotripDemo.zip">
           download demo
         </a>
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/eurotrip/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/eurotrip/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/eurotrip" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

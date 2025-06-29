@@ -43,8 +43,11 @@
         <a class="btn btn-primary" href="downloads/SynthPowerDemo.zip">
           download demo
         </a>
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/synth-power/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/synth-power/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/synth-power" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

@@ -35,8 +35,8 @@
         Content: 
       </p>
       <ul>
-        <li>10 Reason song files adjusted for</li>
-        <li class="no-bullet">
+        <li>
+          10 Reason song files adjusted for
           <ul>
             <li>Kong "Oldschool 808 Patterns" patch</li>
             <li>Kong (Drum Supply Refill layout)</li>
@@ -45,8 +45,8 @@
             <li>Roland Cloud TR-808</li>
           </ul>
         </li>
-        <li>3 Kong patches</li>
-        <li class="no-bullet">
+        <li>
+          3 Kong patches
           <ul>
             <li>exclusive "Oldschool 808 Patterns" patch</li>
             <li>2 Kong King Refill patches</li>
@@ -57,8 +57,11 @@
         <a class="btn btn-primary" href="downloads/Oldschool808PatternsDemo.zip">
           download demo
         </a>
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/oldschool-808-patterns/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/oldschool-808-patterns/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/oldschool-808-patterns" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

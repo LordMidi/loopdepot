@@ -40,8 +40,11 @@
         Reason 12 or Reason+ is required
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/kickdrum-synthesizer-collection/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/kickdrum-synthesizer-collection/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/kickdrum-synthesizer-collection" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

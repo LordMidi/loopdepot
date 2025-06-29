@@ -30,8 +30,7 @@
         Content: 
       </p>
       <ul>
-        <li>250 Combinator 2 patches</li>
-        <li>
+        <li>250 Combinator 2 patches
           <ul>
             <li>34 bass patches</li>
             <li>27 effect patches</li>
@@ -43,8 +42,8 @@
         </li>
       </ul>
       <ul>
-        <li>150 Tribute patches</li>
         <li>
+          150 Tribute patches
           <ul>
             <li>38 bass patches</li>
             <li>15 effect patches</li>
@@ -56,8 +55,11 @@
         The download includes the single patch files AND the Refill version.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/tribute-neurotone-pack/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/tribute-neurotone-pack/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/tribute-neurotone-pack" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

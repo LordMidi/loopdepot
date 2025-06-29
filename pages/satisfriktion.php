@@ -34,8 +34,11 @@
         The download includes the single patch files AND the ReFill version.
       </p>
       <p class="mt-5">
-        <a class="btn btn-success" href="https://www.reasonstudios.com/shop/product/satisfriktion/" target="_blank">
-          buy
+        <a class="btn btn-warning" href="https://www.reasonstudios.com/shop/product/satisfriktion/" target="_blank">
+          buy @ Reason Studios
+        </a>
+        <a class="btn btn-success" href="https://loopdepot.gumroad.com/l/satisfriktion" target="_blank">
+          buy @ Gumroad
         </a>
       </p>
     </div>

@@ -14,6 +14,11 @@ switch ($_REQUEST["page"]) {
     $description = "Free combinators & patches for Reason";
     $template = "free";
     break;
+  case "thundersound":
+    $title = "Thundersound";
+    $description = "150 patches for the Grain Sample Manipulator.";
+    $template = "thundersound";
+    break;
   case "tributeneurotonepack":
     $title = "Tribute Neurotone Pack - 100 patches for ReGroove Mixer";
     $description = "100 patches for the ReGroove Mixer for Reason.";
@@ -97,7 +102,7 @@ switch ($_REQUEST["page"]) {
 $content = file_get_contents("pages/" . $template . ".php");
 ?>
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
   <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117488999-1"></script>
@@ -126,6 +131,11 @@ $content = file_get_contents("pages/" . $template . ".php");
         <a class="navbar-brand" href="/">
           <img class="" height="50" src="images/logo.svg" alt="Home">
         </a>
+        <div class="links">
+          <a class="btn btn-success" href="https://loopdepot.gumroad.com" target="_blank">
+            👉&nbsp;Gumroad
+          </a>
+        </div>
       </div>
     </nav>
     <?php if (!$cookiesAccepted): ?>
