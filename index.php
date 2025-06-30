@@ -115,6 +115,9 @@ $content = file_get_contents("pages/" . $template . ".php");
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
+    <link rel="icon" type="image/png" href="images/favicon.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="images/favicon.png" sizes="192x192">
+    <link rel="apple-touch-icon" type="image/png" href="images/favicon.png">
     <?php if ($description): ?>
       <meta name="description" content="<?php echo $description; ?>">
     <?php endif; ?>

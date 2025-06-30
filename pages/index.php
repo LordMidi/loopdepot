@@ -1,7 +1,7 @@
 <div class="container mb-4">
   <div class="row">
     <div class="col-lg-12">
-      <h1>High-Quality Reason Patches, Refills & Combinators for Your Music Production</h1>
+      <h1>High-Quality Reason Patches, Refills & Combinators for your music production</h1>
       <h2>Download the demos & free stuff</h2>
       <p>
         Are you searching for Reason patches that elevate your music production? You’ve come to the right place. At Loop Depot, we specialize in delivering premium patches, Refills, and Combinators made specifically for Reason, the powerful digital audio workstation (DAW) by Reason Studios.
