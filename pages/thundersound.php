@@ -50,3 +50,19 @@
     </div>
   </div>
 </div>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Thundersound",
+    "name": "Executive Anvil",
+    "image": [
+      "https://loopdepot.com/images/thundersound/cover.jpg"
+      ],
+    "description": "150 explosive patches for your Grain Sample Manipulator from the golden era of hardcore and rave for the Reason DAW.",
+    "offers": {
+      "@type": "Offer",
+      "price": 10,
+      "priceCurrency": "USD"
+    }
+  }
+</script>

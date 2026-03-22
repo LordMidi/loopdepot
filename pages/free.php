@@ -2,6 +2,40 @@
   <h1 class="mt-4">Free patches & Combinator 2 devices for Reason.</h1>
   <br><br>
 </div>
+<img class="rack-device" src="images/free/3310.jpg" alt="3310">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+    <h3>3310 <small>Combinator 2 instrument patch</small></h3>
+      <p>
+        Remember mobile phones from the '90s? And those <strong>ringtones</strong>? We love that sound! This is an attempt to bring that special vibe back into Reason. Enjoy!
+      </p> 
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/3310.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+<img class="rack-device" src="images/free/808bassmkii.jpg" alt="808 Bass MKII">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+    <h3>808 Bass MKII - <small>Combinator 2 instrument patch</small></h3>
+      <p>
+        Shake the ground with this <strong>powerful Combinator 2 patch for Reason.</strong>
+        It delivers massive, punchy low-end perfect for trap, hip-hop, and electronic styles.
+        Whether you need smooth depth or gritty saturation, 808 Bass MKII gives you that <strong>iconic bass for free</strong>.
+      </p> 
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/808BassMKII.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 <img class="rack-device" src="images/free/lofimofo.jpg" alt="LoFiMoFo">
 <div class="container mt-4 mb-4">
   <div class="row">

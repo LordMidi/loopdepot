@@ -16,6 +16,9 @@
       <p>
         Try our free Reason Refills and patches to hear the quality before making a purchase. We’re here to support your creativity with the sounds we trust in our own studio work.
       </p>
+      <p>
+        If you're a Reason+ user - check out our <a href="/reason-plus-sound-pack-radio/">Reason+ Sound Packs Radio</a>. Play the preview of the soundpacks in a dedicated application and bookmark your favorites.
+      </p>
     </div>
   </div>
 </div>
@@ -34,6 +37,70 @@
           Download now!
         </p>
         <a href="free-patches-and-combinators-for-reason" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack tonesforpolytone mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="tones-for-polytone-free-presets-for-reason-daw" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/tonesforpolytone/banner.jpg" alt="Boom Bap Lootbox">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Tones For Polytone</h3>
+        <p>
+          Elevate your sounds arsenal with this free Polytone expansion. 
+          A collection of <strong>100 exclusive high quality patches</strong>.
+          Best of all? It’s completely free.
+        </p>
+        <a href="tones-for-polytone-free-presets-for-reason-daw" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack boombaplootbox mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="boom-bap-loot-box-250-rex-loops-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/boombaplootbox/banner.jpg" alt="Boom Bap Lootbox">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Boom Bap Lootbox</h3>
+        <p>
+          Get the sound of the golden era!<br>
+          250 instrumental REX2 Loops for that <strong>dusty, soulful, and hard-hitting hip-hop aesthetic</strong>.
+        </p>
+        <a href="boom-bap-loot-box-250-rex-loops-for-reason" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="rack voicebankpss-170 mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="voice-bank-pss-170-pack-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/voicebankpss-170/banner.jpg" alt="Voice Bank PSS-170 Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Voice Bank PSS-170</h3>
+        <p>
+          The PSS-170 retro voice archive is here!<br>
+          100 iconic, versatile, and cheesy sounds of the <strong>iconic FM keyboard of the early '90s</strong>
+        </p>
+        <a href="voice-bank-pss-170-pack-for-reason" class="btn btn-danger index-link">
           more information
         </a>
       </div>

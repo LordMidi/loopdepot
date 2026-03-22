@@ -37,7 +37,7 @@
       <div class="col-lg-3">
         <p>
           <a class="btn btn-success mb-2" href="tel:+4917683104048">Phone: +49 176 83104048</a><br>
-          <a class="btn btn-warning" href="mailto:contact@loopdepot.com">E-Mail: contact@loopdepot.com</a>
+          <a class="btn btn-warning" href="mailto:loopdepot@gmail.com">E-Mail: loopdepot@gmail.com</a>
         </p>
       </div>
     </div>

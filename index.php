@@ -14,6 +14,21 @@ switch ($_REQUEST["page"]) {
     $description = "Free combinators & patches for Reason";
     $template = "free";
     break;
+  case "tonesforpolytone":
+    $title = "Tones For Polytone";
+    $description = "Free ReFill of 100 patches for the Polytone Dual-Layer Synthesizer.";
+    $template = "tonesforpolytone";
+    break;
+  case "boombaplootbox":
+    $title = "Boom Bap Lootbox";
+    $description = "Get the sound of the golden era with this loop sample collection.";
+    $template = "boombaplootbox";
+    break;
+  case "voicebankpss-170":
+    $title = "Voice Bank PSS-170";
+    $description = "Retro sounds of the famous PSS-170. 100 NN-XT patches, 8 Dr. Octo Rex patches & Combinator instrument.";
+    $template = "voicebankpss-170";
+    break;
   case "thundersound":
     $title = "Thundersound";
     $description = "150 patches for the Grain Sample Manipulator.";
@@ -25,7 +40,7 @@ switch ($_REQUEST["page"]) {
     $template = "tributeneurotonepack";
     break;
   case "goodoldaysregrooves":
-    $title = "Good Ol Days ReGrooves - 100 patches for ReGroove Mixer";
+    $title = "Good Ol Days ReGrooves - free Reason Refill with 100 patches for ReGroove Mixer";
     $description = "100 patches for the ReGroove Mixer for Reason.";
     $template = "goodoldaysregrooves";
     break;

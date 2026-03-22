@@ -39,6 +39,10 @@ h1 small {
   display: block;
 }
 
+.index-link img {
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4); ;
+}
+
 @media (min-width: 650px) {
   body {
     padding-top: 20px;
@@ -94,6 +98,20 @@ nav, .rack {
 @media (min-width: 650px) {
   .cookies {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #e9e8e8 70%, #dfdfdf);
+  }
+}
+
+.voicebankpss-170 {
+  color: #222222;
+  background: linear-gradient(to top, #D8C04A 70%, #D7BD3F);
+  border-top: 1px solid #EADC9A;
+  border-left: 1px solid #EADC9A;
+  border-bottom: 1px solid #958120;
+  border-right: 1px solid #958120;
+}
+@media (min-width: 650px) {
+  .voicebankpss-170 {
+    background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #D8C04A 70%, #D7BD3F);
   }
 }
 
@@ -264,7 +282,7 @@ nav, .rack {
   border-right: 1px solid #cccccc;
 }
 
-.satisfriktion {
+.satisfriktion, .boombaplootbox {
   color: #ffffff;
   background: linear-gradient(to top, #213e46 70%, #182d33);
   border-top: 1px solid #305965;
@@ -273,7 +291,7 @@ nav, .rack {
   border-right: 1px solid #101e22;
 }
 @media (min-width: 650px) {
-  .satisfriktion {
+  .satisfriktion, .boombaplootbox {
     background: url(/images/screw.png) top left no-repeat, url(/images/screw.png) top right no-repeat, url(/images/screw.png) bottom left no-repeat, url(/images/screw.png) bottom right no-repeat, linear-gradient(to top, #213e46 70%, #182d33);
   }
 }
