@@ -43,6 +43,27 @@
     </div>
   </div>
 </div>
+<div class="rack backstreetbreaks mb-4">
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-7">
+        <a href="backstreet-breaks-110-rex-drum-loops-for-reason" class="index-link">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="images/backstreetbreaks/banner.jpg" alt="Backstreet Breaks Banner">
+        </a>
+      </div>
+      <div class="col-md-5">
+        <h3>Backstreet Breaks</h3>
+        <p>
+          Get that raw energy of the hip hop underground with this essential collection.<br>
+          <strong>110 REX2 drum loops</strong>
+        </p>
+        <a href="backstreet-breaks-110-rex-drum-loops-for-reason" class="btn btn-danger index-link">
+          more information
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="rack tonesforpolytone mb-4">
   <div class="container mt-4 mb-4">
     <div class="row">
@@ -77,7 +98,7 @@
         <h3>Boom Bap Lootbox</h3>
         <p>
           Get the sound of the golden era!<br>
-          250 instrumental REX2 Loops for that <strong>dusty, soulful, and hard-hitting hip-hop aesthetic</strong>.
+          250 instrumental REX2 loops for that <strong>dusty, soulful, and hard-hitting hip-hop aesthetic</strong>.
         </p>
         <a href="boom-bap-loot-box-250-rex-loops-for-reason" class="btn btn-danger index-link">
           more information

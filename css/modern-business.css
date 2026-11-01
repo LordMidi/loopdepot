@@ -101,6 +101,15 @@ nav, .rack {
   }
 }
 
+.backstreetbreaks {
+  color: #222222;
+  background: linear-gradient(to top, #2DC7F0 50%, #B57ADD);
+  border-top: 1px solid #BA87DD;
+  border-left: 1px solid #BA87DD;
+  border-bottom: 1px solid #16ABCC;
+  border-right: 1px solid #16ABCC;
+}
+
 .voicebankpss-170 {
   color: #222222;
   background: linear-gradient(to top, #D8C04A 70%, #D7BD3F);

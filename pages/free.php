@@ -2,13 +2,35 @@
   <h1 class="mt-4">Free patches & Combinator 2 devices for Reason.</h1>
   <br><br>
 </div>
+<img class="rack-device" src="images/free/oldschooler.jpg" alt="Oldschooler">
+<div class="container mt-4 mb-4">
+  <div class="row">
+    <div class="col-12">
+    <h3>Oldschooler <small>Combinator 2 effect patch</small></h3>
+      <p>
+        Add some grit to your tracks with this <strong>free lofi degradation device for Reason</strong>.
+        Control sample rate & bit depth to adjust the vintage flavor.
+        Works perfectly on oldschool drums or samples.
+        Requires the Processed Pianos rack extension (included in Reason+).
+      </p> 
+      <p class="mt-5">
+        <a class="btn btn-primary" href="downloads/free/Oldschooler.cmb">
+          download
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 <img class="rack-device" src="images/free/3310.jpg" alt="3310">
 <div class="container mt-4 mb-4">
   <div class="row">
     <div class="col-12">
     <h3>3310 <small>Combinator 2 instrument patch</small></h3>
       <p>
-        Remember mobile phones from the '90s? And those <strong>ringtones</strong>? We love that sound! This is an attempt to bring that special vibe back into Reason. Enjoy!
+        Remember mobile phones from the '90s? And those <strong>ringtones</strong>?
+        We love that sound!
+        This is an attempt to bring that special vibe back into Reason.
+        Enjoy!
       </p> 
       <p class="mt-5">
         <a class="btn btn-primary" href="downloads/free/3310.cmb">

@@ -14,6 +14,11 @@ switch ($_REQUEST["page"]) {
     $description = "Free combinators & patches for Reason";
     $template = "free";
     break;
+  case "backstreetbreaks":
+    $title = "Backstreet Breaks";
+    $description = "110 REX2 oldschool drum loop patches for Reason.";
+    $template = "backstreetbreaks";
+    break;
   case "tonesforpolytone":
     $title = "Tones For Polytone";
     $description = "Free ReFill of 100 patches for the Polytone Dual-Layer Synthesizer.";

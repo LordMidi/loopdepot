@@ -38,4 +38,5 @@ RewriteRule ^thundersound-hardcore-pack-for-reason$ index.php?page=thundersound 
 RewriteRule ^voice-bank-pss-170-pack-for-reason$ index.php?page=voicebankpss-170 [NC,L]
 RewriteRule ^boom-bap-loot-box-250-rex-loops-for-reason$ index.php?page=boombaplootbox [NC,L]
 RewriteRule ^tones-for-polytone-free-presets-for-reason-daw$ index.php?page=tonesforpolytone [NC,L]
+RewriteRule ^backstreet-breaks-110-rex-drum-loops-for-reason$ index.php?page=backstreetbreaks [NC,L]
 RewriteRule ^free-patches-and-combinators-for-reason$ index.php?page=free [NC,L]
